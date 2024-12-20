@@ -104,4 +104,3 @@ Seçtiğiniz Meyve: 4TL
 1. Kullanıcı girdisini doğrulama eklemek.
 2. Programı, birden fazla meyve seçimine izin verecek şekilde geliştirmek.
 3. Fiyatları bir veri yapısı (örneğin, `Dictionary`) ile tutarak daha esnek bir kontrol mekanizması oluşturmak.
-# RuyaManav
