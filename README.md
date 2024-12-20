@@ -3,6 +3,13 @@
 ## Program Açıklaması
 Bu program, kullanıcının seçtiği meyveye göre fiyat bilgisi veren basit bir C# konsol uygulamasıdır.
 
+## Neden Switch-Case Yapısı Seçilmeli?
+
+- **Okunabilirlik:** Switch-case yapısı, birden fazla durumun kontrol edilmesini kolay ve okunabilir bir şekilde sağlar.
+- **Performans:** Birden fazla "if-else" kontrolü yerine switch-case kullanıldığında derleyiciler genellikle daha optimize kod oluşturur.
+- **Kolay Bakım:** Yeni bir durum eklemek veya mevcut bir durumu değiştirmek daha az hata riski ile yapılabilir.
+- **Anlamsal Temizlik:** Her durumun belirli bir eylemle eşleştirilmesi, kodun mantığını daha iyi ifade eder.
+
 ## Nasıl Çalışır?
 
 1. Program, mevcut meyvelerin fiyatlarını ekrana yazdırır:
